@@ -1,0 +1,36 @@
+* {
+
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+    display: block;
+}
+
+label, input, button {
+    display: block;
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+header {
+    background-color: rgb(51, 119, 179);
+    margin-top: -21px;
+    margin-right: -21px;
+    margin-left: -21px;
+}
+
